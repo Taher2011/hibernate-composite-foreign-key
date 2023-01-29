@@ -1,0 +1,1 @@
+# hibernate-composite-foreign-key
